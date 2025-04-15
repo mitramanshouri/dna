@@ -27,4 +27,5 @@ st.subheader("🧠 Mind Map")
 st.markdown("[Click here to view our mind map on Miro](https://miro.com/app/board/uXjVIL8Njoo=/)")
 
 # Footer or notes (optional)
-st.write("This site is built with ❤️ using Streamlit.")
+st.write ("Thank you for listening")
+
